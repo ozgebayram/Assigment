@@ -1,25 +1,9 @@
-# ODEV1: Dort Islem Hesap Makinasi (2 Sayı bir operator)
+ ODEV1: Dort Islem Hesap Makinasi (2 Sayı bir operator)
 
-# ODEV2 :Clarusway’deki haftalık ders ve etkinlik programınızı, console’dan girilen gün değerine göre çıktı veren kodu switch-case yapısı ile yazınız.
+ ODEV2 :Haftalık ders ve etkinlik programınızı, console’dan girilen gün değerine göre çıktı veren kodu switch-case yapısı ile yazınız.
+ 
+ ODEV3:Maasi asgari ucretten az olanlara %50 zam,fazla olanlara ise %10 zam yapmak istiyoruz.
 
-## Pazartesi, Salı ,Çarşamba, Perşembe -> InClass
+ ODEV4: Kredi Risk Programı
 
-## Cuma -> Teamwork
 
-## Cumartesi ->  InClass + Workshop
-
-## Pazar -> Self-Study
-
-## Aksi takdirde -> Yanlis gun girildi.
-
-# ODEV3:Maasi asgari ucretten az olanlara %50 zam,fazla olanlara ise %10 zam yapmak istiyoruz.
-
-# ODEV4: Kredi Risk Programı
-
-## Console’dan kişinin gelir ve gider miktarını alan
-
-## eğer kişinin geliri giderinden en az asgari ücret kadar fazla ise Kredi Verilebilir 🤑
-
-## değilse Kredi Verilemez 🥺
-
-## şeklinde çıktı veren kodu Ternary deyimi kullanarak yazınız.
