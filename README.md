@@ -1,3 +1,3 @@
-# python-app
+# Assignments
 
-commit test
+It contains short problems and solutions about programming languages.
